@@ -1,4 +1,4 @@
-# Agile-Methodology-Recommendation
+# Agile Methodology Recommendation
 
 A report to recommend an agile methodology to a new company. 
 The company’s goal is to produce a rival to the e-commerce website Amazon and has hired a team of talented Software Developers to do this. 
